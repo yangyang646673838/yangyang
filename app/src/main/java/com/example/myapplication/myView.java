@@ -9,6 +9,7 @@ public class myView extends View {
         super(context);
     }
 
+
     public myView(Context context, AttributeSet attrs) {
         super(context, attrs);
     }
